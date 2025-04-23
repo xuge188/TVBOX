@@ -195,6 +195,14 @@
             "playerType": 2,
             "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
         },
+            {
+      "key": "晴天",
+      "name": "🌅晴天┃旭叔",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "jaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wfGIwMjVkY2Q5YzI4OWNiYjN8YjAyNWRjZDljMjg5Y2JiMw=="
+    },
        {
             "key": "蝴蝶",
             "name": "🦋蝴蝶┃旭叔",
