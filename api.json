@@ -53,17 +53,7 @@
                 "url": "http://tt.ysdqjs.cn"
             }
         },
-         {
-      "key": "QD4K",
-      "name": "🕵️‍♂自建┃旭叔",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
-        {
+       {
       "key": "晴天",
       "name": "🌅晴天┃旭叔",
       "type": 3,
@@ -239,9 +229,17 @@
             "key": "糯米影视",
             "name": "🍓糯米┃旭叔",
             "type": 3,
+            "quickSearch": 1,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn"
         },
+        {
+      "key": "白白影视",
+      "name": "🥼白白┃旭叔",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },
         {
             "key": "云播影视",
             "name": "☁云播┃旭叔",
