@@ -238,14 +238,19 @@
             "filterable": 1,
             "playerType": 2
         },
-       {
-            "key": "二三",
-            "name": "🏈二三┃旭叔",
-            "type": 3,
-            "api": "csp_Muou",
-            "playerType": 2,
-            "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-        },
+     {
+      "key": "二三",
+      "name": "🏈二三┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://cs4.123ysw.com",
+        "dataKey": "d3238930e3ae0724",
+        "dataIv": "d3238930e3ae0724",
+        "jxurl": "https://123ysw.com"
+      }
+    },
      {
             "key": "糯米影视",
             "name": "🍓糯米┃旭叔",
