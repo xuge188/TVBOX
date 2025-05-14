@@ -231,6 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 1,
       "style": {
         "type": "list",
         "ratio": 1.433
