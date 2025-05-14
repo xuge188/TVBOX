@@ -68,8 +68,8 @@
       }
     },
         {
-      "key": "尼玛",
-      "name": "👩好玛┃旭叔",
+      "key": "牛马",
+      "name": "🐴牛马┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -79,6 +79,20 @@
         "dataIv": "a006661b01bdebbd",
         "deviceId": "",
         "version": ""
+      }
+    },
+        {
+      "key": "集多",
+      "name": "🍔集多┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://220.231.146.94:6261",
+        "dataKey": "hL7xN4P9rS2vK5Mq",
+        "dataIv": "hL7xN4P9rS2vK5Mq",
+        "deviceId": "",
+        "version": "200"
       }
     },
     {
@@ -152,6 +166,17 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./json/og.json"
+    },
+        {
+      "key": "奥秘",
+      "name": "📽奥秘┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/am.json"
     },
        {
             "key": "雷鲸",
@@ -229,7 +254,7 @@
     },
       {
             "key": "猎手影视",
-            "name": "🌟猎手┃旭叔",
+            "name": "💪猎手┃旭叔",
             "type": 3,
             "api": "./py/猎手影视.py",
             "searchable": 1,
