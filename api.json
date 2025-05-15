@@ -96,17 +96,17 @@
       }
     },
     {
-      "key": "鲨鱼",
-      "name": "🐬鲨鱼┃旭叔",
+      "key": "星河",
+      "name": "🌍星河┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://cms.wlbbq.xyz",
-        "dataKey": "sdev15rwsa96fsde",
-        "dataIv": "sdev15rwsa96fsde",
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
         "deviceId": "",
-        "version": "102"
+        "version": "361"
       }
     },
         {
@@ -331,7 +331,7 @@
         },
        {
             "key": "追剧影视",
-            "name": "😉追剧┃旭叔",
+            "name": "🏃‍追剧┃旭叔",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/追剧影视.js"
