@@ -210,7 +210,7 @@
     },
         {
             "key": "Pan1",
-            "name": "🌂123┃旭叔",
+            "name": "⛔二三┃旭叔",
             "type": 3,
             "api": "csp_PanWebShareCloud123",
             "searchable": 1,
@@ -265,8 +265,8 @@
             "playerType": 2
         },
      {
-      "key": "二三",
-      "name": "🏈二三┃旭叔",
+      "key": "三六",
+      "name": "🏈三六┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppMuou",
