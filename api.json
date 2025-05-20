@@ -96,34 +96,6 @@
             }
         },
         {
-      "key": "牛马",
-      "name": "🐴牛马┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://nm.xxxc137.top",
-        "dataKey": "a006661b01bdebbd",
-        "dataIv": "a006661b01bdebbd",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-        {
-      "key": "集多",
-      "name": "🍔集多┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://220.231.146.94:6261",
-        "dataKey": "hL7xN4P9rS2vK5Mq",
-        "dataIv": "hL7xN4P9rS2vK5Mq",
-        "deviceId": "",
-        "version": "200"
-      }
-    },
-    {
       "key": "星河",
       "name": "🌍星河┃旭叔",
       "type": 3,
@@ -307,7 +279,7 @@
     },
      {
             "key": "糯米影视",
-            "name": "🍓糯米┃旭叔",
+            "name": "🍚糯米┃旭叔",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_Wwys",
@@ -366,7 +338,7 @@
         },
        {
             "key": "追剧影视",
-            "name": "🏃‍追剧┃旭叔",
+            "name": "📺追剧┃旭叔",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/追剧影视.js"
@@ -401,7 +373,7 @@
         },
       {
             "key": "push_agent",
-            "name": "🛴手机┃推送",
+            "name": "📱手机┃推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
