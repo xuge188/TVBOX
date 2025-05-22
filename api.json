@@ -53,20 +53,20 @@
                 "url": "http://tt.ysdqjs.cn"
             }
         },
-       {
-      "key": "晴天",
-      "name": "🌅晴天┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.sun4k.top",
-        "dataKey": "b025dcd9c289cbb3",
-        "dataIv": "b025dcd9c289cbb3",
-        "deviceId": "",
-        "version": ""
-      }
-    },
+      {
+            "key": "诺雪",
+            "name": "🌅晴天┃旭叔",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.rx4k.top",
+                "dataKey": "LiGFzV6csf21zsu6",
+                "dataIv": "LiGFzV6csf21zsu6",
+                "deviceId": "",
+                "version": ""
+            }
+        },
         {
             "key": "仓鼠",
             "name": "🐹仓鼠┃旭叔",
@@ -136,7 +136,7 @@
         },
       {
             "key": "蜡笔",
-            "name": "👠蜡笔┃旭叔",
+            "name": "💄蜡笔┃旭叔",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -242,7 +242,7 @@
     },
        {
       "key": "盘库",
-      "name": "🚃盘库┃旭叔",
+      "name": "📀盘库┃旭叔",
       "type": 3,
       "api": "csp_PanWebKuBa",
       "searchable": 1,
