@@ -53,6 +53,20 @@
                 "url": "http://tt.ysdqjs.cn"
             }
         },
+        {
+            "key": "忍者",
+            "name": "👻忍者┃旭叔",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfxs123.sbs",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
       {
             "key": "人人",
             "name": "👨人人┃旭叔",
