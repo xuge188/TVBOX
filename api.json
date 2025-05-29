@@ -305,6 +305,7 @@
             "api": "csp_Jianpian",
             "type": 3,
             "playerType": 1,
+            "changeable": 0,
             "ext": "http://api2.rinhome.com"
         },
        {
@@ -312,7 +313,7 @@
             "name": "🧲狐狸┃旭叔",
             "type": 3,
             "api": "csp_XBPQ",
-            "changeable": 1,
+            "changeable": 0,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -323,6 +324,7 @@
             "name": "🧲天堂┃旭叔",
             "type": 3,
             "api": "csp_DyGod",
+            "changeable": 0,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
