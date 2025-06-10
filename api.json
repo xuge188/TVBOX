@@ -54,6 +54,18 @@
             }
         },
         {
+      "key": "浪酷影视",
+      "name": "🏄‍♂️浪酷┃旭叔",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+    },
+        {
             "key": "忍者",
             "name": "👻忍者┃旭叔",
             "type": 3,
@@ -81,21 +93,35 @@
         "version": "120"
       }
     },
-      {
-            "key": "人人",
-            "name": "👨人人┃旭叔",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.xiaohys.com",
-                "dataKey": "ENonBHeVBoYZhVUV",
-                "dataIv": "ENonBHeVBoYZhVUV",
-                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "166"
-            }
-        },
         {
+      "key": "晓晓",
+      "name": "👲晓晓┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ys.ewo.asia",
+        "dataKey": "Z0qTnwyLAJCtuIkI",
+        "dataIv": "Z0qTnwyLAJCtuIkI",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "瓜萌",
+      "name": "🎃瓜萌┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.guahd.com",
+        "dataKey": "f2A7D4B9E8C16531",
+        "dataIv": "f2A7D4B9E8C16531",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
       "key": "星河",
       "name": "🌍星河┃旭叔",
       "type": 3,
@@ -109,19 +135,7 @@
         "version": "361"
       }
     },
-        {
-            "key": "浪酷影视",
-            "name": "🏄‍浪酷┃旭叔",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.lkuys.cn"
-            }
-        },
-        {
+       {
             "key": "金牌影视",
             "name": "🥇金牌┃旭叔",
             "type": 3,
@@ -265,20 +279,7 @@
             "filterable": 1,
             "playerType": 2
         },
-     {
-      "key": "三六",
-      "name": "🏈三六┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://cs4.123ysw.com",
-        "dataKey": "d3238930e3ae0724",
-        "dataIv": "d3238930e3ae0724",
-        "jxurl": "https://123ysw.com"
-      }
-    },
-     {
+    {
             "key": "糯米影视",
             "name": "🍚糯米┃旭叔",
             "type": 3,
