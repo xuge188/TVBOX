@@ -121,6 +121,20 @@
         "version": ""
       }
     },
+        {
+      "key": "雄鹰",
+      "name": "🦅雄鹰┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://122.228.193.2:9988",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
     {
       "key": "星河",
       "name": "🌍星河┃旭叔",
@@ -264,6 +278,16 @@
       "type": 3,
       "api": "./js/cloud.min.js",
       "ext": "./js/爱搜Baidu.js",
+      "style": {
+        "type": "list"
+      }
+    },
+        {
+      "key": "百酷",
+      "name": "🎥百酷┃旭叔",
+      "type": 3,
+      "api": "./js/cloud.min.js",
+      "ext": "./js/百酷.js",
       "style": {
         "type": "list"
       }
