@@ -135,6 +135,20 @@
         "version": "120"
       }
     },
+        {
+            "key": "海豚",
+            "name": "🐬海豚┃旭叔",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
+            }
+        },
     {
       "key": "星河",
       "name": "🌍星河┃旭叔",
