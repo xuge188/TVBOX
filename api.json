@@ -86,7 +86,7 @@
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "http://160.202.243.62:2566",
+        "url": "http://160.202.244.9:6659",
         "dataKey": "qwertyuiopqwerty",
         "dataIv": "qwertyuiopqwerty",
         "deviceId": "",
