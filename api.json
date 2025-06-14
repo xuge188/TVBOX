@@ -265,7 +265,7 @@
     },
        {
       "key": "盘库",
-      "name": "📀盘库┃旭叔",
+      "name": "🧿盘库┃旭叔",
       "type": 3,
       "api": "csp_PanWebKuBa",
       "searchable": 1,
@@ -275,6 +275,16 @@
       "ext": {
         "url": "https://panku8.com,https://yipanso.com"
       }
+    },
+        {
+      "key": "聚搜",
+      "name": "🧿聚搜┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
         {
       "key": "爱搜Quark",
