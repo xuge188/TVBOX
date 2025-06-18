@@ -66,29 +66,15 @@
       }
     },
         {
-            "key": "忍者",
-            "name": "👻忍者┃旭叔",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://mfxs123.sbs",
-                "dataKey": "1234567887654321",
-                "dataIv": "1234567887654321",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-      "key": "咖啡",
-      "name": "☕咖啡┃旭叔",
+      "key": "仓鼠",
+      "name": "🐹仓鼠┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "http://160.202.244.9:6659",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
+        "url": "https://qjappcms.cs4k.top",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "dataIv": "Z98KXaLtO2wC1Pte",
         "deviceId": "",
         "version": "120"
       }
@@ -161,6 +147,20 @@
         "dataIv": "f5e2tx53ykp6s2c9",
         "deviceId": "",
         "version": "361"
+      }
+    },
+        {
+      "key": "晚枫",
+      "name": "🌪晚风┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://111.180.202.216:999",
+        "dataKey": "fjhndgbjidfhgjsd",
+        "dataIv": "fjhndgbjidfhgjsd",
+        "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+        "version": "120"
       }
     },
        {
@@ -287,6 +287,14 @@
       "changeable": 1
     },
         {
+      "key": "糖果",
+      "name": "🧿糖果┃旭叔",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+        {
       "key": "全盘",
       "name": "🧿全盘┃旭叔",
       "type": 3,
@@ -318,7 +326,7 @@
     },
         {
       "key": "百酷",
-      "name": "🎥百酷┃旭叔",
+      "name": "🎥佰搜┃旭叔",
       "type": 3,
       "api": "./js/cloud.min.js",
       "ext": "./js/百酷.js",
