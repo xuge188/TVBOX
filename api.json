@@ -334,28 +334,25 @@
         "type": "list"
       }
     },
-      {
-            "key": "猎手影视",
-            "name": "💪猎手┃旭叔",
-            "type": 3,
-            "api": "./py/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-   {
-      "key": "农民影视",
-      "name": "👨‍🌾农民┃旭叔",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/农民影视.json"
-    },
         {
+            "key": "苹果影视",
+            "name": "🍎苹果┃旭叔",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       {
+            "key": "瓜子影视",
+            "name": "🍉瓜子┃旭叔",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+      {
             "key": "绝对影视",
             "name": "🎨绝对┃旭叔",
             "type": 3,
@@ -382,23 +379,26 @@
             "api": "csp_Qiyou"
         },
         {
-            "key": "苹果影视",
-            "name": "🍎苹果┃旭叔",
+            "key": "猎手影视",
+            "name": "💪猎手┃旭叔",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "./py/猎手影视.py",
             "searchable": 1,
+            "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "playerType": 2
         },
-       {
-            "key": "瓜子影视",
-            "name": "🍉瓜子┃旭叔",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+   {
+      "key": "农民影视",
+      "name": "👨‍🌾农民┃旭叔",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/农民影视.json"
+    },
        {
             "key": "海纳影视",
             "name": "🏝海纳┃旭叔",
