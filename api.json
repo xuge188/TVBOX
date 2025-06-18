@@ -276,6 +276,14 @@
         "url": "https://panku8.com,https://yipanso.com"
       }
     },
+          {
+      "key": "糖果",
+      "name": "🧿盘搜┃旭叔",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "changeable": 0
+    },
         {
       "key": "聚搜",
       "name": "🧿聚搜┃旭叔",
@@ -286,15 +294,7 @@
       "filterable": 1,
       "changeable": 1
     },
-        {
-      "key": "糖果",
-      "name": "🧿糖果┃旭叔",
-      "type": 3,
-      "api": "csp_TGSou",
-      "searchable": 1,
-      "changeable": 0
-    },
-        {
+      {
       "key": "全盘",
       "name": "🧿全盘┃旭叔",
       "type": 3,
