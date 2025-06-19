@@ -211,7 +211,7 @@
         "url": "https://www.qupanshe.com"
       }
     },
-       {
+    {
       "key": "盘库",
       "name": "🧿盘库┃旭叔",
       "type": 3,
@@ -223,6 +223,7 @@
       "ext": {
         "url": "https://panku8.com,https://yipanso.com"
       }
+    },
     {
       "key": "聚搜",
       "name": "🧿聚搜┃旭叔",
