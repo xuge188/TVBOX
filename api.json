@@ -284,6 +284,14 @@
         "type": "list"
       }
     },
+        {
+            "key": "糖果",
+            "name": "🎬片库┃旭叔",
+            "type": 3,
+            "api": "csp_TGSou",
+            "searchable": 1,
+            "changeable": 0
+        },
        {
       "key": "海豚",
       "name": "🐬海豚┃旭叔",
