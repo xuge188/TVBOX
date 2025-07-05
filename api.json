@@ -97,21 +97,7 @@
         "version": "361"
       }
     },
-        {
-      "key": "晚枫",
-      "name": "🌪晚风┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://111.180.202.216:999",
-        "dataKey": "fjhndgbjidfhgjsd",
-        "dataIv": "fjhndgbjidfhgjsd",
-        "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
-        "version": "120"
-      }
-    },
-     {
+       {
       "key": "金牌影视",
       "name": "🥇金牌┃旭叔",
       "type": 3,
@@ -123,6 +109,20 @@
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
+    },
+        {
+      "key": "绝对影视",
+      "name": "🎨绝对┃旭叔",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
+    },
+    {
+      "key": "白白影视",
+      "name": "🐇白兔┃旭叔",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
     },
       {
             "key": "蜡笔",
@@ -194,24 +194,7 @@
             },
             "ext": "./json/lj.json"
         },
-       {
-      "key": "趣盘",
-      "name": "💽佰渡┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebQu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "url": "https://www.qupanshe.com"
-      }
-    },
-    {
+      {
       "key": "盘库",
       "name": "🧿盘库┃旭叔",
       "type": 3,
@@ -276,7 +259,7 @@
     },
         {
       "key": "百酷",
-      "name": "🎥佰搜┃旭叔",
+      "name": "🎬佰库┃旭叔",
       "type": 3,
       "api": "./js/cloud.min.js",
       "ext": "./js/百酷.js",
@@ -303,20 +286,6 @@
       }
     },
        {
-      "key": "海豚",
-      "name": "🐬海豚┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.htsp4k.top",
-        "dataKey": "7CYQQzwchRQpHCOj",
-        "dataIv": "7CYQQzwchRQpHCOj",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "瓜萌",
       "name": "🎃瓜萌┃旭叔",
       "type": 3,
@@ -330,21 +299,7 @@
         "version": ""
       }
     },
-        {
-      "key": "榴莲",
-      "name": "🍋柠檬┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.ll4k.xyz",
-        "dataKey": "1yGA85sJ5STtE7uj",
-        "dataIv": "1yGA85sJ5STtE7uj",
-        "deviceId": "",
-        "version": "50000"
-      }
-    },
-        {
+      {
       "key": "桃子",
       "name": "🍑桃子┃旭叔",
       "type": 3,
@@ -372,21 +327,7 @@
         "version": ""
       }
     },
-       {
-            "key": "绝对影视",
-            "name": "🎨绝对┃旭叔",
-            "type": 3,
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
-        {
-      "key": "白白影视",
-      "name": "🐇白兔┃旭叔",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
-       {
+      {
             "key": "奇优影视",
             "name": "🥝奇优┃旭叔",
             "type": 3,
@@ -431,10 +372,8 @@
             "key": "荐片",
             "name": "🧲荐片┃旭叔",
             "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": 1,
             "changeable": 0,
-            "ext": "http://api2.rinhome.com"
+            "type": 3
         },
        {
             "key": "狐狸君",
