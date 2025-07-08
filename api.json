@@ -112,7 +112,7 @@
     },
         {
       "key": "绝对影视",
-      "name": "🐱猫子┃旭叔",
+      "name": "🎃萌瓜┃旭叔",
       "type": 3,
       "api": "csp_FourK",
       "ext": "https://www.4kvm.tv"
@@ -285,37 +285,9 @@
         "type": "list"
       }
     },
-       {
-      "key": "瓜萌",
-      "name": "🎃瓜萌┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.guahd.com",
-        "dataKey": "f2A7D4B9E8C16531",
-        "dataIv": "f2A7D4B9E8C16531",
-        "deviceId": "",
-        "version": ""
-      }
-    },
       {
-      "key": "桃子",
-      "name": "🍑桃子┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.tzys.xyz",
-        "dataKey": "KL6vlZkw6WL5x90U",
-        "dataIv": "KL6vlZkw6WL5x90U",
-        "deviceId": "4b4c36766c5a6b7736574c3578393055",
-        "version": "119"
-      }
-    },
-        {
       "key": "樱桃",
-      "name": "🍒樱桃┃旭叔",
+      "name": "🍑桃子┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppMuou",
@@ -326,21 +298,7 @@
         "jxurl": "https://ap.dxgsp.cc"
       }
     },
-        {
-      "key": "魔方",
-      "name": "👻忍者┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mfsp33.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-      {
+       {
             "key": "奇优影视",
             "name": "🥝奇优┃旭叔",
             "type": 3,
