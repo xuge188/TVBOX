@@ -285,6 +285,42 @@
         "type": "list"
       }
     },
+        {
+      "key": "123",
+      "name": "🌂三盘┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShareCloud123",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/123.json"
+    },
+    {
+      "key": "米搜",
+      "name": "🍚米搜┃旭叔",
+      "type": 3,
+      "api": "csp_MiSou"
+    },
+    {
+      "key": "热剧",
+      "name": "🌅热剧┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "",
+        "site": "https://app-qy.oss-cn-shanghai.aliyuncs.com/rebo.txt",
+        "dataKey": "8191A7F47B37882F",
+        "dataIv": "8191A7F47B37882F",
+        "deviceId": "",
+        "version": ""
+      }
+    },
       {
       "key": "樱桃",
       "name": "🍑桃子┃旭叔",
