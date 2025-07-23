@@ -217,16 +217,21 @@
       "filterable": 1,
       "changeable": 1
     },
-        {
-      "key": "夸克盘搜",
-      "name": "🧿夸父┃旭叔",
-      "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/夸克盘搜.js",
-      "style": {
-        "type": "list"
-      }
-    },
+       {
+            "key": "夸父",
+            "name": "🧿夸父┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/kf.json"
+        },
       {
       "key": "全盘",
       "name": "🎥全盘┃旭叔",
@@ -275,15 +280,11 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-      "key": "天堂",
-      "name": "🎬堂搜┃旭叔",
+       {
+      "key": "米搜",
+      "name": "🎬米搜┃旭叔",
       "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/天堂.js",
-      "style": {
-        "type": "list"
-      }
+      "api": "csp_MiSou"
     },
         {
       "key": "123",
@@ -301,12 +302,6 @@
       "ext": "./json/123.json"
     },
     {
-      "key": "米搜",
-      "name": "🍚米搜┃旭叔",
-      "type": 3,
-      "api": "csp_MiSou"
-    },
-        {
       "key": "小斑快映",
       "name": "🤡小斑┃旭叔",
       "type": 3,
@@ -318,20 +313,19 @@
       "ext": "./json/xbky.json"
     },
     {
-      "key": "热剧",
-      "name": "🌅热剧┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://app-qy.oss-cn-shanghai.aliyuncs.com/rebo.txt",
-        "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F",
-        "deviceId": "",
-        "version": ""
-      }
-    },
+            "key": "稀饭",
+            "name": "🍚稀饭┃旭叔",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.xifanys.com",
+                "dataKey": "HM6Ly9yeS4ya3dvL",
+                "dataIv": "HM6Ly9yeS4ya3dvL",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
       {
       "key": "樱桃",
       "name": "🍑桃子┃旭叔",
@@ -350,6 +344,17 @@
             "name": "🥝奇优┃旭叔",
             "type": 3,
             "api": "csp_Qiyou"
+        },
+        {
+            "key": "零度影视",
+            "name": "🌅热剧┃旭叔",
+            "type": 3,
+            "api": "./py/零度影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "猎手影视",
