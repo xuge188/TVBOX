@@ -158,15 +158,15 @@
       "ext": "./json/og.json"
     },
         {
-      "key": "奥秘",
-      "name": "📽奥秘┃旭叔",
+      "key": "小斑快映",
+      "name": "📽快映┃旭叔",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/am.json"
+      "ext": "./json/xbky.json"
     },
          {
             "key": "二小",
@@ -302,15 +302,15 @@
       "ext": "./json/123.json"
     },
     {
-      "key": "小斑快映",
-      "name": "🤡小斑┃旭叔",
+      "key": "奥秘",
+      "name": "🤡奥秘┃旭叔",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xbky.json"
+      "ext": "./json/am.json"
     },
     {
             "key": "稀饭",
