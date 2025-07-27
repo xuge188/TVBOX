@@ -312,6 +312,23 @@
       "changeable": 1,
       "ext": "./json/am.json"
     },
+        {
+      "key": "趣盘",
+      "name": "💽佰渡┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebQu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "url": "https://www.qupanshe.com"
+      }
+    },
     {
             "key": "稀饭",
             "name": "🍚稀饭┃旭叔",
