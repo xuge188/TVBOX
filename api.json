@@ -212,14 +212,14 @@
       }
     },
     {
-      "key": "聚搜",
-      "name": "🧿聚搜┃旭叔",
+      "key": "全盘",
+      "name": "🧿盘搜┃旭叔",
       "type": 3,
-      "api": "csp_PanWebSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "api": "./js/cloud.min.js",
+      "ext": "./js/全盘.js",
+      "style": {
+        "type": "list"
+      }
     },
        {
             "key": "夸父",
@@ -237,16 +237,6 @@
             "ext": "./json/kf.json"
         },
       {
-      "key": "全盘",
-      "name": "🎥全盘┃旭叔",
-      "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/全盘.js",
-      "style": {
-        "type": "list"
-      }
-    },
-        {
       "key": "爱搜Quark",
       "name": "🎥夸搜┃旭叔",
       "type": 3,
@@ -265,6 +255,16 @@
       "style": {
         "type": "list"
       }
+    },
+        {
+      "key": "聚搜",
+      "name": "🎥聚搜┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
         {
       "key": "百酷",
@@ -809,4 +809,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
