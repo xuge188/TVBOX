@@ -211,7 +211,7 @@
       "key": "全盘",
       "name": "🧿盘搜┃旭叔",
       "type": 3,
-      "api": "./js/cloud.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/全盘.js",
       "style": {
         "type": "list"
@@ -263,7 +263,7 @@
       "key": "百酷",
       "name": "🎬佰库┃旭叔",
       "type": 3,
-      "api": "./js/cloud.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./js/百酷.js",
       "style": {
         "type": "list"
@@ -796,6 +796,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
