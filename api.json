@@ -199,17 +199,13 @@
             "ext": "./json/lj.json"
         },
       {
-      "key": "盘库",
+      "key": "盘搜",
       "name": "🧿盘库┃旭叔",
       "type": 3,
-      "api": "csp_PanWebKuBa",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://panku8.com,https://yipanso.com"
-      }
+      "filterable": 1
     },
     {
       "key": "全盘",
@@ -236,37 +232,34 @@
             },
             "ext": "./json/kf.json"
         },
-      {
-      "key": "爱搜Quark",
+     {
+      "key": "音海夸克",
       "name": "🎥夸搜┃旭叔",
       "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/爱Quark.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "爱搜Baidu",
-      "name": "🎥渡搜┃旭叔",
-      "type": 3,
-      "api": "./js/cloud.min.js",
-      "ext": "./js/爱Baidu.js",
-      "style": {
-        "type": "list"
-      }
-    },
-        {
-      "key": "聚搜",
-      "name": "🎥聚搜┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebSearch",
+      "api": "csp_YinHaiQuark",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "filterable": 1
     },
-        {
+    {
+      "key": "音海百度",
+      "name": "🎥渡搜┃旭叔",
+      "type": 3,
+      "api": "csp_YinHaiBaidu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "音海天翼",
+      "name": "🎥翼搜┃旭叔",
+      "type": 3,
+      "api": "csp_YinHaiTianyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "百酷",
       "name": "🎬佰库┃旭叔",
       "type": 3,
@@ -290,31 +283,14 @@
       "type": 3,
       "api": "csp_MiSou"
     },
-        {
-      "key": "123",
+       {
+      "key": "音海123",
       "name": "🌂三盘┃旭叔",
       "type": 3,
-      "api": "csp_PanWebShareCloud123",
+      "api": "csp_YinHai123",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/123.json"
-    },
-    {
-      "key": "奥秘",
-      "name": "🤡奥秘┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/am.json"
+      "filterable": 1
     },
         {
       "key": "趣盘",
@@ -334,6 +310,17 @@
       }
     },
     {
+      "key": "奥秘",
+      "name": "🤡奥秘┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/am.json"
+    },
+        {
             "key": "爱看",
             "name": "👁爱看┃旭叔",
             "type": 3,
@@ -809,6 +796,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
