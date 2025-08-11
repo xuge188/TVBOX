@@ -233,43 +233,6 @@
             "ext": "./json/kf.json"
         },
      {
-      "key": "音海夸克",
-      "name": "🎥夸搜┃旭叔",
-      "type": 3,
-      "api": "csp_YinHaiQuark",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "音海百度",
-      "name": "🎥渡搜┃旭叔",
-      "type": 3,
-      "api": "csp_YinHaiBaidu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "音海天翼",
-      "name": "🎥翼搜┃旭叔",
-      "type": 3,
-      "api": "csp_YinHaiTianyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "百酷",
-      "name": "🎬佰库┃旭叔",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/百酷.js",
-      "style": {
-        "type": "list"
-      }
-    },
-        {
             "key": "糖果",
             "name": "🎬片库┃旭叔",
             "type": 3,
@@ -283,16 +246,22 @@
       "type": 3,
       "api": "csp_MiSou"
     },
-       {
-      "key": "音海123",
-      "name": "🌂三盘┃旭叔",
+        {
+      "key": "音海",
+      "name": "🎬聚盘┃旭叔",
       "type": 3,
-      "api": "csp_YinHai123",
+      "api": "csp_YinHai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
         {
+      "key": "百酷",
+      "name": "🎥佰库┃旭叔",
+      "type": 3,
+      "api": "csp_Baiku"
+    },
+       {
       "key": "趣盘",
       "name": "💽佰渡┃旭叔",
       "type": 3,
@@ -309,18 +278,7 @@
         "url": "https://www.qupanshe.com"
       }
     },
-    {
-      "key": "奥秘",
-      "name": "🤡奥秘┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/am.json"
-    },
-        {
+  {
             "key": "爱看",
             "name": "👁爱看┃旭叔",
             "type": 3,
@@ -334,6 +292,20 @@
                 "version": "120"
             }
         },
+        {
+      "key": "光影",
+      "name": "🏝海光｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.guangyingmi.com",
+        "dataKey": "230fnsodfsdhfon2",
+        "dataIv": "230fnsodfsdhfon2",
+        "deviceId": "",
+        "version": ""
+      }
+    },
       {
             "key": "奇优影视",
             "name": "🥝奇优┃旭叔",
@@ -796,6 +768,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
