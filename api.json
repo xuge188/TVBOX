@@ -357,7 +357,8 @@
             "name": "🧲荐片┃旭叔",
             "api": "csp_Jianpian",
             "changeable": 0,
-            "type": 3
+            "type": 3,
+            "ext": "https://ij1men.slsw6.com"
         },
        {
             "key": "狐狸君",
@@ -769,6 +770,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
