@@ -279,20 +279,16 @@
       }
     },
   {
-      "key": "海绵",
-      "name": "🚀天意┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebShareCloudHM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/hm.json"
-    },
+            "key": "虎斑",
+            "name": "🐯虎斑┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/hb.json"
+        },
         {
       "key": "光影",
       "name": "🏝海光｜APP",
@@ -770,6 +766,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
