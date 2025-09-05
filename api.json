@@ -207,16 +207,12 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "全盘",
-      "name": "🧿盘搜┃旭叔",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/全盘.js",
-      "style": {
-        "type": "list"
-      }
-    },
+   {
+            "key": "派派",
+            "name": "🧿盘搜┃旭叔",
+            "type": 3,
+            "api": "csp_PPQPan"
+        },
        {
             "key": "夸父",
             "name": "🧿夸父┃旭叔",
@@ -766,6 +762,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
