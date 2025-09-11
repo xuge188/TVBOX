@@ -30,5 +30,5 @@
             "type_id": "42317879720298"
         }
     ],
-    "Cookie": "5cbc87235c1e444b8eaf8dc038e202a3;JSESSIONID=8A674FD3AF40A3EE830B3F4A1D9484D5;cms_accessToken=60de4c9768014c9e97f4d0e19d342c81;cms_refreshToken=2b37e4cc59f7427eae15e67cd869ac16"
+    "Cookie": "cms_token=5cbc87235c1e444b8eaf8dc038e202a3;JSESSIONID=8A674FD3AF40A3EE830B3F4A1D9484D5;cms_accessToken=60de4c9768014c9e97f4d0e19d342c81;cms_refreshToken=2b37e4cc59f7427eae15e67cd869ac16"
 }
