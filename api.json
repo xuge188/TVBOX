@@ -183,22 +183,18 @@
             "changeable": 1,
             "ext": "./json/ex.json"
         },
+        {
+      "key": "虎斑",
+      "name": "🐯虎斑┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/hb.json"
+    },
        {
-            "key": "雷鲸",
-            "name": "🛩天益┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShareCloudLJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/lj.json"
-        },
-      {
       "key": "盘搜",
       "name": "🧿盘库┃旭叔",
       "type": 3,
@@ -207,51 +203,51 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
-            "key": "派派",
-            "name": "🧿盘搜┃旭叔",
-            "type": 3,
-            "api": "csp_PPQPan"
-        },
-       {
-            "key": "夸父",
-            "name": "🧿夸父┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKF",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/kf.json"
-        },
-     {
-            "key": "糖果",
-            "name": "🎬片库┃旭叔",
-            "type": 3,
-            "api": "csp_TGSou",
-            "searchable": 1,
-            "changeable": 0
-        },
-       {
-      "key": "米搜",
-      "name": "🎬米搜┃旭叔",
-      "type": 3,
-      "api": "csp_MiSou"
-    },
         {
       "key": "音海",
-      "name": "🎬聚盘┃旭叔",
+      "name": "🧿片库┃旭叔",
       "type": 3,
       "api": "csp_YinHai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "糖果",
+      "name": "🧿聚盘┃旭叔",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "changeable": 0
+    },
         {
+      "key": "派派",
+      "name": "🎬盘搜┃旭叔",
+      "type": 3,
+      "api": "csp_PPQPan"
+    },
+    {
+      "key": "米搜",
+      "name": "🎬米搜┃旭叔",
+      "type": 3,
+      "api": "csp_MiSou"
+    },
+    {
+      "key": "夸父",
+      "name": "🎬夸父┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/kf.json"
+    },
+   {
       "key": "百酷",
       "name": "🎥佰库┃旭叔",
       "type": 3,
@@ -275,16 +271,20 @@
       }
     },
   {
-            "key": "虎斑",
-            "name": "🐯虎斑┃旭叔",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/hb.json"
-        },
+      "key": "雷鲸",
+      "name": "🛩天益┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/lj.json"
+    },
         {
       "key": "海绵",
       "name": "🚀天意┃旭叔",
@@ -766,6 +766,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
