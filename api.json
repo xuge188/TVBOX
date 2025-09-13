@@ -354,7 +354,7 @@
             "api": "csp_Jianpian",
             "changeable": 0,
             "type": 3,
-            "ext": "https://ij1men.slsw6.com"
+            "ext": "https://api.ztcgi.com"
         },
        {
             "key": "狐狸君",
@@ -766,6 +766,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
