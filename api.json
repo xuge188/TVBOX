@@ -42,18 +42,6 @@
             }
         },
         {
-            "key": "天天影视",
-            "name": "⛅️天天┃旭叔",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://tt.ysdqjs.cn"
-            }
-        },
-        {
       "key": "浪酷影视",
       "name": "🏄‍♂️浪酷┃旭叔",
       "type": 3,
@@ -63,6 +51,19 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.lkuys.cn"
+      }
+    },
+        {
+      "key": "金牌影视",
+      "name": "🥇金牌┃旭叔",
+      "type": 3,
+      "api": "./py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },
        {
@@ -84,39 +85,22 @@
       "filterable": 1
     },
     {
-      "key": "白蛇",
-      "name": "🌍星河┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-        "dataKey": "n3l2tx5jdkp9s2c8",
-        "dataIv": "n3l2tx5jdkp9s2c8",
-        "deviceId": "",
-        "version": "361"
-      }
-    },
-       {
-      "key": "金牌影视",
-      "name": "🥇金牌┃旭叔",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-      }
-    },
-        {
       "key": "绝对影视",
       "name": "🎃萌瓜┃旭叔",
       "type": 3,
       "api": "csp_FourK",
       "ext": "https://www.4kvm.tv"
+    },
+        {
+      "key": "小斑快映",
+      "name": "📽快映┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/xbky.json"
     },
     {
             "key": "玩偶哥哥",
@@ -161,18 +145,7 @@
       "changeable": 1,
       "ext": "./json/og.json"
     },
-        {
-      "key": "小斑快映",
-      "name": "📽快映┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/xbky.json"
-    },
-         {
+       {
             "key": "二小",
             "name": "🃏小二┃旭叔",
             "type": 3,
@@ -183,17 +156,6 @@
             "changeable": 1,
             "ext": "./json/ex.json"
         },
-        {
-      "key": "虎斑",
-      "name": "🐯虎斑┃旭叔",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/hb.json"
-    },
        {
       "key": "盘搜",
       "name": "🧿盘库┃旭叔",
@@ -270,6 +232,17 @@
         "url": "https://www.qupanshe.com"
       }
     },
+        {
+      "key": "虎斑",
+      "name": "🐯小虎┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/hb.json"
+    },
   {
       "key": "海绵",
       "name": "🛩天益┃旭叔",
@@ -287,7 +260,7 @@
     },
         {
       "key": "雷鲸",
-      "name": "🚀天意┃旭叔",
+      "name": "✈️天逸┃旭叔",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
@@ -299,6 +272,32 @@
         "ratio": 1.433
       },
       "ext": "./json/lj.json"
+    },
+        {
+      "key": "木偶",
+      "name": "📦木偶┃旭叔",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/mogg.json"
+    },
+    {
+      "key": "白蛇",
+      "name": "🌍星河┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+        "dataKey": "n3l2tx5jdkp9s2c8",
+        "dataIv": "n3l2tx5jdkp9s2c8",
+        "deviceId": "",
+        "version": "361"
+      }
     },
         {
       "key": "光影",
@@ -766,6 +765,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
