@@ -85,12 +85,11 @@
       "filterable": 1
     },
     {
-      "key": "绝对影视",
-      "name": "🎃萌瓜┃旭叔",
-      "type": 3,
-      "api": "csp_FourK",
-      "ext": "https://www.4kvm.tv"
-    },
+            "key": "奇优影视",
+            "name": "🥝奇优┃旭叔",
+            "type": 3,
+            "api": "csp_Qiyou"
+        },
         {
       "key": "小斑快映",
       "name": "📽快映┃旭叔",
@@ -300,8 +299,63 @@
       }
     },
         {
+      "key": "豆丁",
+      "name": "🌰豆丁┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://45.66.157.77:9427",
+        "site": "",
+        "dataKey": "Xasdasd!123123dd",
+        "dataIv": "Xasdasd!123123dd",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "斗量",
+      "name": "🏝海岛┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "火狐",
+      "name": "🦊火狐┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "site": "",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap",
+        "deviceId": "",
+        "version": "140",
+        "ua": ""
+      }
+    },
+    {
+      "key": "云播影视",
+      "name": "☁云播┃旭叔",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "ext": "http://www.viptv01.com"
+    },
+        {
       "key": "光影",
-      "name": "🏝海光｜APP",
+      "name": "🌅晴天┃旭叔",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -314,12 +368,6 @@
       }
     },
       {
-            "key": "奇优影视",
-            "name": "🥝奇优┃旭叔",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
-        {
             "key": "猎手影视",
             "name": "💪猎手┃旭叔",
             "type": 3,
@@ -765,6 +813,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
