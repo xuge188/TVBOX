@@ -8,13 +8,16 @@
             "name": "👀旭叔┃带你体验视觉🔍",
             "type": 3,
             "api": "csp_Douban",
-            "searchable": 0
+            "searchable": 0,
+            "changeable": 0
         },
        {
             "key": "本地",
             "name": "🗂本地┃文件",
             "type": 3,
-            "api": "csp_LocalFile"
+            "api": "csp_LocalFile",
+            "searchable": 0,
+            "changeable": 0
         },
         {
             "key": "配置中心",
@@ -347,27 +350,6 @@
       }
     },
     {
-      "key": "云播影视",
-      "name": "☁云播┃旭叔",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv01.com"
-    },
-        {
-      "key": "光影",
-      "name": "🌅晴天┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.guangyingmi.com",
-        "dataKey": "230fnsodfsdhfon2",
-        "dataIv": "230fnsodfsdhfon2",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-      {
             "key": "猎手影视",
             "name": "💪猎手┃旭叔",
             "type": 3,
@@ -813,6 +795,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
