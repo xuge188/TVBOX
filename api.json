@@ -311,20 +311,19 @@
       "ext": "./json/kf.json"
     },
     {
-            "key": "奈飞",
-            "name": "🌍星河┃旭叔",
+            "key": "夸圈",
+            "name": "🎞夸圈┃旭叔",
             "type": 3,
+            "api": "csp_PanWebShareCloudKQ",
+            "searchable": 1,
             "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://movier.ink",
-                "site": "",
-                "dataKey": "moviermovierink9",
-                "dataIv": "moviermovierink9",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/kq.json"
         },
         {
       "key": "豆丁",
@@ -820,6 +819,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
