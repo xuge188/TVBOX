@@ -325,57 +325,9 @@
             },
             "ext": "./json/kq.json"
         },
-        {
-      "key": "豆丁",
-      "name": "🌰豆丁┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://45.66.157.77:9427",
-        "site": "",
-        "dataKey": "Xasdasd!123123dd",
-        "dataIv": "Xasdasd!123123dd",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "斗量",
-      "name": "🏝海岛┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "火狐",
-      "name": "🦊火狐┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://huohu.yihn.cc",
-        "site": "",
-        "dataKey": "huohushipingetap",
-        "dataIv": "huohushipingetap",
-        "deviceId": "",
-        "version": "140",
-        "ua": ""
-      }
-    },
-    {
+       {
             "key": "猎手影视",
-            "name": "💪猎手┃旭叔",
+            "name": "🦊火狐┃旭叔",
             "type": 3,
             "api": "./py/猎手影视.py",
             "searchable": 1,
@@ -819,6 +771,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
