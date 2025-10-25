@@ -319,8 +319,17 @@
       "ext": "./json/lj.json"
     },
         {
+      "key": "音海天翼",
+      "name": "🚀翼搜┃旭叔",
+      "type": 3,
+      "api": "csp_YinHaiTianyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
             "key": "克搜",
-            "name": "🚁克搜┃旭叔",
+            "name": "🛸克搜┃旭叔",
             "type": 3,
             "api": "csp_PanWebShareCloudKQS",
             "searchable": 1,
@@ -801,6 +810,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
