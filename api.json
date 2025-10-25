@@ -224,7 +224,7 @@
       "key": "夸母",
       "name": "🎞夸母┃旭叔",
       "type": 3,
-      "api": "csp_PanWebShareCloudKQS",
+      "api": "csp_PanWebShareCloudKM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -233,7 +233,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/kqs.json"
+      "ext": "./json/km.json"
     },
     {
       "key": "夸圈",
@@ -318,6 +318,21 @@
       },
       "ext": "./json/lj.json"
     },
+        {
+            "key": "克搜",
+            "name": "🚁克搜┃旭叔",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKQS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/kqs.json"
+        },
         {
       "key": "木偶",
       "name": "📦木偶┃旭叔",
@@ -786,6 +801,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
