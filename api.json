@@ -66,7 +66,7 @@
       "filterable": 1,
       "playerType": 2,
       "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        "site": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },
        {
@@ -386,12 +386,19 @@
       "ext": "./XBPQ/农民影视.json"
     },
       {
-            "key": "追剧影视",
-            "name": "📺追剧┃旭叔",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/追剧影视.js"
-        },
+      "key": "秒看",
+      "name": "📺秒看┃旭叔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+        "ua": "okhttp/3.10.0"
+      }
+    },
        {
             "key": "荐片",
             "name": "🧲荐片┃旭叔",
@@ -810,6 +817,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
