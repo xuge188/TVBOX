@@ -307,19 +307,13 @@
       "ext": "./json/kqs.json"
     },
     {
-      "key": "克盘",
+      "key": "盘搜克盘",
       "name": "🎬克盘┃旭叔",
       "type": 3,
-      "api": "csp_PanWebShareCloudKP",
+      "api": "csp_PanSouQuark",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/kp.json"
+      "filterable": 1
     },
        {
       "key": "海绵",
@@ -850,6 +844,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
