@@ -413,17 +413,15 @@
       "ext": "./XBPQ/农民影视.json"
     },
       {
-      "key": "秒看",
+      "key": "金牌",
       "name": "📺秒看┃旭叔",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppMuou",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-        "ua": "okhttp/3.10.0"
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+        "name": "金牌影院（请断网再安装）"
       }
     },
        {
@@ -435,17 +433,6 @@
             "ext": "https://api.ztcgi.com"
         },
        {
-            "key": "狐狸君",
-            "name": "🧲狐狸┃旭叔",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "changeable": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/狐狸君.json"
-        },
-        {
             "key": "电影天堂",
             "name": "🧲天堂┃旭叔",
             "type": 3,
@@ -455,6 +442,68 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+      "key": "80S",
+      "name": "🧲狐狸┃旭叔",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "changeable": 0,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩哔哩戏曲",
+      "name": "🅱️哔哩┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩戏曲.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩相声",
+      "name": "🅱️哔哩┃相声",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩相声.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩小品",
+      "name": "🅱️哔哩┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩小品.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
          {
             "key": "少儿教育",
             "name": "🆎哔哩┃儿童",
@@ -844,6 +893,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
