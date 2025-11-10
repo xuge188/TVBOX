@@ -424,17 +424,17 @@
       "ext": "./XBPQ/农民影视.json"
     },
       {
-      "key": "金牌",
-      "name": "📺秒看┃旭叔",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-        "name": "金牌影院（请断网再安装）"
-      }
-    },
+            "key": "爱看",
+            "name": "📺秒看┃旭叔",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.appdm.akandm.com",
+                "dataKey": "uI1TkPJC8B46AyN3",
+                "dataIv": "uI1TkPJC8B46AyN3"
+            }
+        },
        {
             "key": "荐片",
             "name": "🧲荐片┃旭叔",
@@ -907,6 +907,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
