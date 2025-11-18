@@ -115,17 +115,13 @@
       "ext": "./XBPQ/农民影视.json"
     },
     {
-      "key": "爱看",
-      "name": "📺秒看┃旭叔",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.appdm.akandm.com",
-        "dataKey": "uI1TkPJC8B46AyN3",
-        "dataIv": "uI1TkPJC8B46AyN3"
-      }
-    },
+            "key": "私人",
+            "name": "📺秒看┃旭叔",
+            "type": 3,
+            "changeable": 1,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc/api.php/v1.vod"
+        },
         {
       "key": "小斑快映",
       "name": "📽快映┃旭叔",
@@ -907,6 +903,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
