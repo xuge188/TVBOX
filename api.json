@@ -449,7 +449,7 @@
       "type": 3,
       "api": "csp_BLSGod",
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -897,6 +897,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
