@@ -99,14 +99,16 @@
       "playerType": 2
     },
         {
-            "key": "火猫",
+            "key": "金牌",
             "name": "🐼火猫┃旭叔",
             "type": 3,
-            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
             "ext": {
-                "url": "http://103.23.148.70:14500",
-                "dataKey": "J6AIORKJ3PQOJKM8",
-                "dataIv": "J6AIORKJ3PQOJKM8"
+                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+                "dataKey": "kecbio48dsq131ed",
+                "dataIv": "kecbio48dsq131ed"
             }
         },
     {
@@ -428,6 +430,13 @@
       "changeable": 0,
       "ext": "./json/hb.json"
     },
+        {
+            "key": "趣盘搜",
+            "name": "🎟趣盘┃旭叔",
+            "type": 3,
+            "api": "csp_QuPanSo",
+            "changeable": 0
+        },
        {
             "key": "荐片",
             "name": "🧲荐片┃旭叔",
@@ -900,6 +909,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
