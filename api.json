@@ -432,7 +432,7 @@
     },
         {
             "key": "趣盘搜",
-            "name": "📡趣搜┃旭叔",
+            "name": "🤡趣搜┃旭叔",
             "type": 3,
             "api": "csp_QuPanSo",
             "changeable": 0
@@ -909,6 +909,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
