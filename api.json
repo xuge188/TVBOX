@@ -109,10 +109,10 @@
             "ext": "./XBPQ/农民.json"
         },
         {
-            "key": "人人",
+            "key": "枫叶",
             "name": "🕵️‍♂️好人┃旭叔",
             "type": 3,
-            "api": "./py/人人.py",
+            "api": "./py/枫叶.py",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
