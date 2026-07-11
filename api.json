@@ -494,7 +494,7 @@
             "timeout": 60
         },
         {
-            "key": "哔哩哔哩戏曲",
+            "key": "bz戏曲",
             "name": "🅱️哔哩┃戏曲",
             "type": 3,
             "api": "csp_Bili",
@@ -504,7 +504,7 @@
             "changeable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩戏曲.json"
+                "json": "./json/bz戏曲.json"
             },
             "style": {
                 "type": "rect",
@@ -512,7 +512,7 @@
             }
         },
         {
-            "key": "哔哩哔哩相声",
+            "key": "bz相声",
             "name": "🅱️哔哩┃相声",
             "type": 3,
             "api": "csp_Bili",
@@ -522,7 +522,7 @@
             "changeable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩相声.json"
+                "json": "./json/bz相声.json"
             },
             "style": {
                 "type": "rect",
@@ -530,7 +530,7 @@
             }
         },
         {
-            "key": "哔哩哔哩小品",
+            "key": "bz小品",
             "name": "🅱️哔哩┃小品",
             "type": 3,
             "api": "csp_Bili",
@@ -540,7 +540,7 @@
             "changeable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "./json/哔哩哔哩小品.json"
+                "json": "./json/bz小品.json"
             },
             "style": {
                 "type": "rect",
@@ -548,7 +548,7 @@
             }
         },
         {
-            "key": "少儿教育",
+            "key": "bz儿童",
             "name": "🆎哔哩┃儿童",
             "type": 3,
             "api": "csp_Bili",
@@ -557,7 +557,7 @@
             "changeable": 0,
             "filterable": 1,
             "ext": {
-                "json": "./json/少儿教育.json",
+                "json": "./json/bz儿童.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -566,7 +566,7 @@
             }
         },
         {
-            "key": "哔哩视频",
+            "key": "bz视频",
             "name": "🆎哔哩┃视频",
             "type": 3,
             "api": "csp_BiliYS",
@@ -579,12 +579,12 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./json/哔哩视频.json",
+                "json": "./json/bz视频.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
         {
-            "key": "哔哩合集",
+            "key": "bz合集",
             "name": "🆎哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
@@ -597,7 +597,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./json/哔哩合集.json",
+                "json": "./json/bz合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
