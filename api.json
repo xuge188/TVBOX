@@ -1,7 +1,7 @@
 {
-    "spider": "./spider.jar;md5;da53cc1f9141c3b3030516d6abd98724",
+    "spider": "./spider.jar",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
-    "logo": "https://i0.hdslb.com/bfs/new_dyn/ee2fd2ef029542ebb4eb102e4ae48a2a1083307557.gif",
+    "logo": "https://i0.hdslb.com/bfs/new_dyn/4870f78c8757be6d9ab2614999b0eff61083307557.gif",
     "sites": [
         {
             "key": "豆瓣",
@@ -211,7 +211,7 @@
             "ext": {
                 "site": [
                     "https://www.wogg.net",
-                    "https://wogg.333232.xyz",
+                    "https://www.wogg.live",
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz"
                 ]
@@ -229,6 +229,7 @@
             "changeable": 0,
             "ext": {
                 "site": [
+                    "http://tvpanpan.site",
                     "http://www.xiaocgege.shop",
                     "http://feimo.fun",
                     "http://xiaocgege.shop"
@@ -249,10 +250,7 @@
                 "site": [
                     "https://mihdr.top",
                     "https://www.miqk.cc",
-                    "https://xiaomiai.site",
-                    "https://xiaomi666.fun",
-                    "https://www.mihdr.top",
-                    "https://www.zhizhenpan.fun"
+                    "https://www.mihdr.top"
                 ]
             },
             "timeout": 60
@@ -287,7 +285,6 @@
             "changeable": 0,
             "ext": {
                 "site": [
-                    "https://www.erixaopan.fun",
                     "https://www.wexwp.cc",
                     "https://wexwp.cc",
                     "https://2xiaopan.top",
