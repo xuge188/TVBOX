@@ -9,7 +9,7 @@ from base.spider import Spider
 import re
 import urllib.request
 class Spider(Spider):  # 元类 默认的元类 type
-	hostUrl='https://4kxc.com'
+	hostUrl='https://4kzn.cc'
 	def getName(self):
 		return "4k指南"
 	def init(self,extend=""):
