@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;da53cc1f9141c3b3030516d6abd98724",
+    "spider": "./spider.jar;md5;208e3f5e168a0c1f58a70ea8444a79c9",
     "wallpaper": "https://i0.hdslb.com/bfs/new_dyn/d512eadb60be5cf999b0df5074260ece522628429.jpg@.webp",
     "logo": "https://i0.hdslb.com/bfs/new_dyn/ee2fd2ef029542ebb4eb102e4ae48a2a1083307557.gif",
     "sites": [
@@ -480,10 +480,10 @@
             "timeout": 60
         },
         {
-            "key": "4K指南",
+            "key": "指南",
             "name": "🎬原盘┃旭叔",
             "type": 3,
-            "api": "./py/4K指南.py",
+            "api": "./py/指南.py",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
